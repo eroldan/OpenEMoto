@@ -1,0 +1,1 @@
+For tubing dimensions, check CURRENT_FOLDER/Jig/Dimensions.dwg
