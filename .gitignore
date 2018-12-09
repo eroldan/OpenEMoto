@@ -1,4 +1,4 @@
 OldVersions
 lockfile.lck
 *.ods#
-Thumbs.db
+**/Thumbs.db
